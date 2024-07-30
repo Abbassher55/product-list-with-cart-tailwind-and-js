@@ -544,13 +544,19 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.bg-red-500 {
+.bg-rose-500 {
   --tw-bg-opacity: 1;
-  background-color: rgb(239 68 68 / var(--tw-bg-opacity));
+  background-color: rgb(135 99 90 / var(--tw-bg-opacity));
 }
 
-.p-2 {
-  padding: 0.5rem;
+.bg-red {
+  --tw-bg-opacity: 1;
+  background-color: rgb(199 59 15 / var(--tw-bg-opacity));
+}
+
+.bg-green {
+  --tw-bg-opacity: 1;
+  background-color: rgb(30 165 117 / var(--tw-bg-opacity));
 }
 
 .p-8 {
@@ -564,11 +570,6 @@ video {
 
 .font-bold {
   font-weight: 700;
-}
-
-.text-red-200 {
-  --tw-text-opacity: 1;
-  color: rgb(254 202 202 / var(--tw-text-opacity));
 }
 
 .text-white {
